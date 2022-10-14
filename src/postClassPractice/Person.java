@@ -5,6 +5,7 @@ import java.util.List;
 
 public class Person {
 	
+	String example;
 	String firstName;
 //	List <Person> people = new ArrayList (List.of(new Person ("Jody"), new Person ("Jimmy"), new Person ("Aby"), new Person ("Bobby")));
 	
